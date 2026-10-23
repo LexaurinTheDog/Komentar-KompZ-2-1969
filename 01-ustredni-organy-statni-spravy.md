@@ -181,6 +181,11 @@ Výčet je rovněž uzavřený: Česká národní banka (čl. 98 Ústavy) ani Ne
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1774/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/715F708C7763A9E6C1257DE8003AECED?openDocument) — 30. 12. 2014, kat. A
+  > „Vykonatelné usnesení soudu, kterým bylo státu (České republice) uloženo vrátit poplatníku soudní poplatek nebo přeplatek na soudním poplatku, je způsobilým titulem pro výkon rozhodnutí nebo exekuci. V řízení o výkon rozhodnutí nebo v exekučním řízení vedeném podle takového titulu vystupuje za stát (Českou republiku) Ministerstvo financí"
+
 #### Systematika působnosti Ministerstva financí
 
 Odst. 1 je jedním z nejobsáhlejších výčtů kompetenčního zákona. Lze jej roztřídit do bloků: (i) rozpočet a fiskální politika (státní rozpočet, státní závěrečný účet, státní pokladna, makroekonomické a fiskální prognózy); (ii) finanční trh, elektronické peníze, platební styk a ochrana spotřebitele na finančním trhu — „s výjimkou výkonu dohledu nad finančním trhem v rozsahu působnosti České národní banky"; (iii) daně, poplatky a clo; (iv) finanční hospodaření, finanční kontrola, přezkoumání hospodaření územních samosprávných celků, účetnictví, audit a daňové poradenství; (v) devizové věci, ochrana zahraničních investic, hazardní hry; (vi) majetek státu a privatizace; (vii) státní podpora stavebního spoření a penzijního připojištění; (viii) ceny; (ix) boj proti legalizaci výnosů z trestné činnosti a vnitrostátní koordinace mezinárodních sankcí; (x) posuzování dovozu subvencovaných výrobků.
